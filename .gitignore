@@ -1,0 +1,9 @@
+build/
+install/
+log/
+src/build/
+src/install/
+src/log
+.vscode/
+.cache/
+1.sh/
